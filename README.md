@@ -13,6 +13,6 @@ The app suggest meals based on the time of the day entered by the user.
 3. Click "Clear" to clear the input and try again.
 
    my Youtube viedo https://youtu.be/5kyxvaWo47o
-   
+   my project on GITHUB https://github.com/ST10483018/MealSuggestionApp.git
 
    ![Mealsuggestion pic](https://github.com/user-attachments/assets/e205ae92-cc73-4a06-956e-f4d06ae0f5f4)
