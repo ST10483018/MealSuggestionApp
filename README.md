@@ -1,5 +1,5 @@
 # Meal Suggestion App
-This is an Android application developed in Kotlin using Android studio
+This is an Android application developed in Kotlin using Android studio.
 The app suggest meals based on the time of the day entered by the user.
 
 ## Features
