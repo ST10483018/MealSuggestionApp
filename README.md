@@ -16,3 +16,5 @@ My Youtube video https://youtu.be/5kyxvaWo47o
 My project on GITHUB https://github.com/ST10483018/MealSuggestionApp.git
 
    ![Mealsuggestion pic](https://github.com/user-attachments/assets/e205ae92-cc73-4a06-956e-f4d06ae0f5f4)
+![Screenshot 2025-03-29 183126](https://github.com/user-attachments/assets/e232422e-1cf6-4afe-aac0-c4d298b13494)
+![Screenshot 2025-03-29 183924](https://github.com/user-attachments/assets/8ae32d34-9dba-4b8c-8629-19edfe384b5b)
